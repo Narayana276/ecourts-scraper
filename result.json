@@ -1,0 +1,8 @@
+{
+  "query": {},
+  "matches": [],
+  "causelist": null,
+  "errors": [
+    "Network error fetching https://services.ecourts.gov.in/ecourtindia_v6/?p=case_status_cnr: 400 Client Error: Bad Request for url: https://services.ecourts.gov.in/ecourtindia_v6/?p=case_status_cnr"
+  ]
+}
